@@ -1,4 +1,4 @@
-package Interfaces;
+package OOPS.Interfaces;
 
 public class dogs extends mammals implements herbivore{
     @Override

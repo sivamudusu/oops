@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package OOPS.ConstructorChaining;
 
 public class Main {
     public static void main(String[] args){

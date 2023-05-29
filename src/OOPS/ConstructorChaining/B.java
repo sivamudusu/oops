@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package OOPS.ConstructorChaining;
 
 public class B extends A{
     private int c;

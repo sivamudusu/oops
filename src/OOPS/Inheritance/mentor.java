@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPS.Inheritance;
 
 import java.util.List;
 

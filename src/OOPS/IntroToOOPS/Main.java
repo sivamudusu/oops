@@ -1,4 +1,4 @@
-package IntroToOOPS;
+package OOPS.IntroToOOPS;
 
 public class Main {
     public static void main(String[] args){

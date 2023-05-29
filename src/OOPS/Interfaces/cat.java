@@ -1,4 +1,4 @@
-package Interfaces;
+package OOPS.Interfaces;
 
 public class cat extends mammals implements carnivore {
     @Override

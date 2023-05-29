@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPS.Inheritance;
 
 public class User {
     private String name;

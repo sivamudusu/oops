@@ -1,4 +1,4 @@
-package constructors;
+package OOPS.constructors;
 
 public class Student {
     String name;

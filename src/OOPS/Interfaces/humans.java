@@ -1,4 +1,4 @@
-package Interfaces;
+package OOPS.Interfaces;
 
 public class humans extends mammals implements omnivore{
 

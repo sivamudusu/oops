@@ -1,4 +1,4 @@
-package IntroToOOPS;
+package OOPS.IntroToOOPS;
 
 public class Student {
     String name;

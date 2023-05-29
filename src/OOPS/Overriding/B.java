@@ -1,4 +1,4 @@
-package Overriding;
+package OOPS.Overriding;
 
 public class B extends A{
     void doSomething(){

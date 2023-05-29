@@ -1,4 +1,4 @@
-package Overriding;
+package OOPS.Overriding;
 
 public class Main {
     public static void main(String[] args) {

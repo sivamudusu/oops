@@ -1,6 +1,4 @@
-package Polymorphism;
-
-import Inheritance.User;
+package OOPS.Polymorphism;
 
 import java.util.List;
 

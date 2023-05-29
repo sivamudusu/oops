@@ -1,4 +1,4 @@
-package Interfaces;
+package OOPS.Interfaces;
 
 import java.util.List;
 

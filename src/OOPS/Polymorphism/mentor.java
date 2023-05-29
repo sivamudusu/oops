@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPS.Polymorphism;
 
 public class mentor extends user{
     String description;

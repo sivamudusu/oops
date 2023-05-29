@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPS.Polymorphism;
 
 public class ta extends user{
     String expertise;

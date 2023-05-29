@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPS.Inheritance;
 
 public class Client {
     public  static  void  main(String[] args){

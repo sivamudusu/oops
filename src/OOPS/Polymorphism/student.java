@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPS.Polymorphism;
 
 public class student extends user{
     String batch;

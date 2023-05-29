@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package OOPS.ConstructorChaining;
 
 public class A {
     private int a;

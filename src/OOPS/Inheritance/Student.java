@@ -1,6 +1,4 @@
-package Inheritance;
-
-import com.sun.jdi.event.StepEvent;
+package OOPS.Inheritance;
 
 public class Student extends User{
     private String batch;
@@ -28,11 +26,11 @@ public class Student extends User{
         this.psp = psp;
     }
 
-    public Inheritance.mentor getMentor() {
+    public OOPS.Inheritance.mentor getMentor() {
         return mentor;
     }
 
-    public void setMentor(Inheritance.mentor mentor) {
+    public void setMentor(OOPS.Inheritance.mentor mentor) {
         this.mentor = mentor;
     }
 }

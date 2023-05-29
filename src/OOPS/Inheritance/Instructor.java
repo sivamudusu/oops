@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPS.Inheritance;
 
 public class Instructor extends User{
     private String assignedbatch;

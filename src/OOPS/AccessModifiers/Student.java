@@ -1,4 +1,4 @@
-package AccessModifiers;
+package OOPS.AccessModifiers;
 
 public class Student {
 
